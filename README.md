@@ -14,7 +14,7 @@ LineCode es una plataforma de gestión de cursos y tareas integrada con Google C
 ### 1. Clonar el Repositorio
 
 ```
-git clone https://github.com/tu-usuario/LineCode.git
+git clone https://github.com/Bruno-AltoCapo/LineCode.git
 cd LineCode
 ```
 
